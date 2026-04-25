@@ -52,8 +52,8 @@ This ensures all analysis reflects active race participants within a consistent 
 ---
 
 ## 📊 Dashboard Structure
-![Executive Overview](dashboard_page1.png)
-![Deep Analysis](dashboard_page2.png)
+![Executive Overview](Executive%20Overview.png)
+![Deep Analysis](Deep%20Analysis.png)
 
 ### Page 1 — Executive Overview
 
